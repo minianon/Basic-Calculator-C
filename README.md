@@ -35,3 +35,11 @@ To compile and run this program, ensure you have the following installed:
 Follow the prompts to input two numbers and select the desired operation.
 ## Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue to improve this project.
+
+## Design docs
+
+| Doc | What's inside |
+|---|---|
+| [High-Level Design](docs/hld.md) | Architecture, components, data flow, tech choices, deployment |
+| [Low-Level Design](docs/lld.md) | Modules, data models, APIs and functions, key sequences |
+
